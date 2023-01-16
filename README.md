@@ -1,2 +1,3 @@
-# komis-dev.github.io
-Public page
+# KOMIS's Official GitHub page
+
+Under construction!
